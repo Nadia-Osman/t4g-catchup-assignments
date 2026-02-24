@@ -1,0 +1,3 @@
+Linux is open source.
+Linux has multiple distributions like Ubuntu, Fedora.
+Linux uses a terminal for most operations.
